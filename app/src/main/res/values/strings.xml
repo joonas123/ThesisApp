@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Thesis Project</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">1725410494449554</string>
+    <string name="fb_login_protocol_scheme">fb1725410494449554</string>
+    <string name="register_button">Register</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "798000309324",
+    "project_id": "firebase-thesisproject"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798000309324:android:1e30560726ddd29b",
+        "android_client_info": {
+          "package_name": "com.joonas.thesisproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798000309324-g2f095dpt2hvqc3sjm1nu84k74onaldh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joonas.thesisproject",
+            "certificate_hash": "C17C3D3A7FCF0C965DB7C7A3000DDE62C423B91E"
+          }
+        },
+        {
+          "client_id": "798000309324-godino4vnb23q9t100t5s8odqr39pu53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2wJOd0dKTqJqTc6Nc739YkMZxuCLZljQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
